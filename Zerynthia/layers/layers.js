@@ -11,7 +11,7 @@ var lyr_Brenthishecatehoja_0 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Brenthishecatehoja_0, 
                 style: style_Brenthishecatehoja_0,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Brenthishecatehoja_0.png" /> Brenthis hecate-hoja'
             });
 var format_Brenthishecatebuffer_1 = new ol.format.GeoJSON();
@@ -25,7 +25,7 @@ var lyr_Brenthishecatebuffer_1 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Brenthishecatebuffer_1, 
                 style: style_Brenthishecatebuffer_1,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Brenthishecatebuffer_1.png" /> Brenthis hecate buffer'
             });
 var format_Brenthis_hecateFilipendulaulmaria_2 = new ol.format.GeoJSON();
@@ -41,7 +41,7 @@ var lyr_Brenthis_hecateFilipendulaulmaria_2 = new ol.layer.Vector({
 maxResolution:70.0111653806549,
  
                 style: style_Brenthis_hecateFilipendulaulmaria_2,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Brenthis_hecateFilipendulaulmaria_2.png" /> Brenthis_hecate-Filipendula ulmaria'
             });
 var format_Brenthishecate_3 = new ol.format.GeoJSON();
@@ -55,7 +55,7 @@ var lyr_Brenthishecate_3 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Brenthishecate_3, 
                 style: style_Brenthishecate_3,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Brenthishecate_3.png" /> Brenthis hecate'
             });
 var format_Ariciaeumedon_hoja_4 = new ol.format.GeoJSON();
@@ -69,7 +69,7 @@ var lyr_Ariciaeumedon_hoja_4 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Ariciaeumedon_hoja_4, 
                 style: style_Ariciaeumedon_hoja_4,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Ariciaeumedon_hoja_4.png" /> Aricia eumedon_hoja'
             });
 var format_Ariciaeumedon_area_5 = new ol.format.GeoJSON();
@@ -83,7 +83,7 @@ var lyr_Ariciaeumedon_area_5 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Ariciaeumedon_area_5, 
                 style: style_Ariciaeumedon_area_5,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Ariciaeumedon_area_5.png" /> Aricia eumedon_area'
             });
 var format_Aricia_eumedonGeranium_6 = new ol.format.GeoJSON();
@@ -99,7 +99,7 @@ var lyr_Aricia_eumedonGeranium_6 = new ol.layer.Vector({
 maxResolution:70.0111653806549,
  
                 style: style_Aricia_eumedonGeranium_6,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Aricia_eumedonGeranium_6.png" /> Aricia_eumedon-Geranium'
             });
 var format_Aricia_eumedon_7 = new ol.format.GeoJSON();
@@ -113,7 +113,7 @@ var lyr_Aricia_eumedon_7 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Aricia_eumedon_7, 
                 style: style_Aricia_eumedon_7,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Aricia_eumedon_7.png" /> Aricia_eumedon'
             });
 
@@ -151,7 +151,7 @@ var lyr_Cuadricula10x10_10 = new ol.layer.Vector({
                 declutter: true,
                 source:jsonSource_Cuadricula10x10_10, 
                 style: style_Cuadricula10x10_10,
-                interactive: true,
+                interactive: false,
                 title: '<img src="styles/legend/Cuadricula10x10_10.png" /> Cuadricula 10x10'
             });
 var group_AriciaEumedon = new ol.layer.Group({
